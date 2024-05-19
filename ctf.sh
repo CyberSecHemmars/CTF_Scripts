@@ -247,5 +247,6 @@ fi
 
 sleep 5
 
+echo ""
 effect "Script has been completed."
 effect "Thank You..."
