@@ -3,6 +3,7 @@
 # Author: Hemmars
 # Project: CTF script
 
+# Note
 # Usage: $0 <IP> <Target_Name>
 
 # Argument Input
